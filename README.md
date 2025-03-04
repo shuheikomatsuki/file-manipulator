@@ -46,9 +46,9 @@ python3 file_manipulator.py replace-string <inputpath> needle newstring
 ランダムに生成される数値を当てる非常に簡単なゲームです。
 
 ## 遊び方
-    1. 任意の整数n, mを入力し実行する。ただし、n < m とする。
-    2. n 以上 m 以下の整数を入力する。
-    3. 正解の場合は"Collect!"と表示される。不正解なら"Wrong"と表示され、再入力する。これを正解するまで繰り返す。
+1. 任意の整数n, mを入力し実行する。ただし、n < m とする。
+2. n 以上 m 以下の整数を入力する。
+3. 正解の場合は"Collect!"と表示される。不正解なら"Wrong"と表示され、再入力する。これを正解するまで繰り返す。
 
 ```bash
 python3 guess_number.py <n> <m>
