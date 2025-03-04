@@ -42,6 +42,20 @@ python3 file_manipulator.py replace-string <inputpath> needle newstring
 
 ---
 
+# File Converter
+
+markdown形式のファイルをHTMLファイルに変換する。
+
+```bash
+python3 file-converter.py markdown <md_inputpath> <html_outputpath>
+```
+実行例
+```bash
+python3 file-converter.py markdown README.md index.html
+```
+
+---
+
 # Guess the number game
 
 ランダムに生成される数値を当てる非常に簡単なゲームです。
