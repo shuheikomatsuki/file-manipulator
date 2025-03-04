@@ -40,6 +40,7 @@ python3 file_manipulator.py duplicate-contents <inputpath> <Repetition Count>
 python3 file_manipulator.py replace-string <inputpath> needle newstring
 ```
 
+---
 
 # Guess the number game
 
