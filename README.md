@@ -50,10 +50,10 @@ python3 file_manipulator.py replace-string <inputpath> needle newstring
     2. n 以上 m 以下の整数を入力する。
     3. 正解の場合は"Collect!"と表示される。不正解なら"Wrong"と表示され、再入力する。これを正解するまで繰り返す。
 
-    ```bash
-    python3 guess_number.py <n> <m>
-    ```
-    実行例
-    ```bash
-    python3 guess_number.py 3 8
-    ```
+```bash
+python3 guess_number.py <n> <m>
+```
+実行例
+```bash
+python3 guess_number.py 3 8
+```
